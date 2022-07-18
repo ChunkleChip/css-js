@@ -19,8 +19,8 @@
 .github { padding: 5px; background-color: rgb(255,255,255); }
 .fa-github { font-size: 5vw; }
 .fa-lastfm { font-size: 5vw; }
-.abuseipdb-badge { height: 75px; padding: 10px; border-radius:10px 10px 0px 0px ; background-image: linear-gradient(rgba(53,194,70,0.75), rgba(0,0,0,0)); }
-.cloudflare-badge{ border-radius: 10px; height: 50px; margin-left: 10px; }
+.abuseipdb-badge { height: 5vh; padding: 10px; border-radius:10px 10px 0px 0px ; background-image: linear-gradient(rgba(53,194,70,0.75), rgba(0,0,0,0)); }
+.cloudflare-badge{ border-radius: 10px; height: 5vh; margin-left: 10px; }
 .bi-bootstrap { font-size: 1em; }
 .badge-text { text-decoration: none; color: rgb(255,255,255); margin-left: 10px; vertical-align: middle; }
 .badges-textonly {
